@@ -1,0 +1,40 @@
+*{
+    text-align: center;    
+}
+h1{
+    color: rgb(216, 116, 22);
+}
+
+button{
+    background-color: white;
+    border-radius: 50px;
+}
+img{
+    margin: 30px;
+    height: 25ch;
+    width: 20ch;
+}
+.human{
+    height: 10ch;
+    width: 10ch;
+    background-color: rgb(224, 140, 30);
+    border-radius: 40px;
+}
+body{
+    background-color:blanchedalmond;
+}
+button:hover{
+    background-color: green;
+    border-radius: 50px;
+}
+.giris{
+    border-radius: 50px;
+    padding: 10px 40px;
+    border: 5px solid black;
+}
+#giris-button{
+    padding: 5px 10px;
+}
+
+
+
